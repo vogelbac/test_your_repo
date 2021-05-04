@@ -1,2 +1,10 @@
 Christoph
 Anna-Maria
+Johnny
+Aicha
+Alex
+Maria
+Xaver
+Jakob
+Michaela
+Jose
